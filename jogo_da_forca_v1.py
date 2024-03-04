@@ -29,9 +29,6 @@ chances_restantes = 8
 letras_erradas = []
 letras_certas = ['_' for letra in palavra]
 # espacos = []
-input_letra = False
-
-
 
 # for i in range(len(palavra)):
 #    i = '_'
